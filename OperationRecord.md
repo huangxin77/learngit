@@ -1,20 +1,17 @@
-# 运营日记
+# Operation Record
 
 ## 20180321
 
-###  俄罗斯
+###  Russia
 
-#### Yandex Auto生效
+#### Yandex Auto works, and waiting Kristina confirm
 
-#### Yandex Market提出试用
+#### Rised try proposal for Yandex Market to Vadim
 
-##### 问Zhenya，Yandex Search的revenue
+##### Waiting feedback from Zhenya of the revenue for yandex Search
 
-#### 问Zhenya，Yandex.link的Revenue是否可以在Yandex account上看到
+#### Waiting feedback from Zhenya if we can find the revenue of Yandex link in Yandex account
 
-### 德国
+### Germany
 
-#### 准备做Ebay.de的affiiliate
-
-
-
+#### Affiliate Program for Ebay.de
