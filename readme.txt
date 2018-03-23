@@ -7,3 +7,4 @@ Add merge.
 Fix issue-101.
 Try Stash.
 Fix issue-102.
+Try Stash again.
