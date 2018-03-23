@@ -4,6 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick and simple.
 Add merge.
-Fix issue-101.
-Let's try Stash.
-Try Stash.
+Working.
