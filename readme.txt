@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Add merge.
 Fix issue-101.
 Try Stash.
+Fix issue-102.
