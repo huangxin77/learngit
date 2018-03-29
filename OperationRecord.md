@@ -30,3 +30,8 @@
 4. Germany Content: URL: https://cdn.eportalmobile.com/p/16.html : 20:00
 5. Germany News: URL : https://cdn.eportalmobile.com/p/17.html :12：00
 6. Germany News: URL: https://cdn.eportalmobile.com/p/18.html : 17:00
+
+## 20180329
+
+1. Russia Content: URL: https://cdn.eportalmobile.com/p/21.html : 12:00
+2. Russia Content: URL: https://cdn.eportalmobile.com/p/22.html : 17:00
